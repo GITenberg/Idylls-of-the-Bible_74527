@@ -1,0 +1,34 @@
+_repo: Idylls-of-the-Bible_74527
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harper, Frances Ellen Watkins
+    aliases:
+    - Harper, F. E. W. (Frances Ellen Watkins)
+    - Watkins, Frances Ellen
+    - Harper, Frances E. W.
+    - Harper, Frances E. Watkins
+    birthdate: 1825
+    deathdate: 1911
+    gutenberg_agent_id: '345'
+    url: http://www.gutenberg.org/2009/agents/345
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Harper
+description: ''
+gutenberg_issued: '2024-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74527'
+language: en
+pgterms:marc904: https://archive.org/details/idyllsofbible00harp
+pgterms:marc905: 20201229102834harper
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Idylls of the Bible
+url: http://www.gutenberg.org/ebooks/74527
